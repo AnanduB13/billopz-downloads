@@ -22,6 +22,6 @@ Sign in online and wait for the counter to finish preparing before using offline
 
 Use the **Setup.exe** release asset to install BillOPZ. GitHub's automatically generated **Source code** archives contain only the public files in this repository and are not the application installer.
 
-Downloading an installer does not purchase a BillOPZ subscription. Product details and terms are available at [billopz.com](https://billopz.com) when the production website launches.
+Downloading an installer does not purchase a BillOPZ subscription. Product details and terms will be available at [the BillOPZ website](https://billopz-landing.netlify.app) when the production website launches.
 
 Support: [billopz.tenztro@gmail.com](mailto:billopz.tenztro@gmail.com)
