@@ -1,0 +1,19 @@
+BillOPZ for Windows 10/11 (64-bit x64)
+
+1. Download the Setup.exe installer from BillOPZ's official download page.
+2. Open it and follow the installation wizard. Node.js and npm are not needed.
+3. If Windows shows "Windows protected your PC" for an unsigned build, check
+   that the file came from BillOPZ, then choose "More info" and "Run anyway"
+   if offered. Do not disable antivirus or change Windows security settings.
+   Some managed PCs or Windows security policies block unsigned applications.
+   Contact your administrator or use the web app at https://app.billopz.com.
+4. Sign in while connected to the internet. Wait for the counter to finish
+   preparing before using offline POS billing. Other cloud features need a
+   connection. Hold unfinished bills before closing the app.
+
+Updates are manual in this release. Before updating, sync pending bills and
+use File > Back up local data. Close BillOPZ, run the newer installer and
+keep the existing app-data directory; do not delete it or copy it to another
+counter. Reopen and check your receipts and pending bills.
+
+Support: billopz.tenztro@gmail.com
