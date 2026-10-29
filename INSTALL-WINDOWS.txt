@@ -6,7 +6,7 @@ BillOPZ for Windows 10/11 (64-bit x64)
    that the file came from BillOPZ, then choose "More info" and "Run anyway"
    if offered. Do not disable antivirus or change Windows security settings.
    Some managed PCs or Windows security policies block unsigned applications.
-   Contact your administrator or use the web app at https://app.billopz.com.
+   Contact your administrator or use the web app at https://billopz-app.netlify.app.
 4. Sign in while connected to the internet. Wait for the counter to finish
    preparing before using offline POS billing. Other cloud features need a
    connection. Hold unfinished bills before closing the app.
